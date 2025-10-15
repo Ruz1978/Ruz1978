@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Ranu Chauhan!👋
 
-<!--
-**Ruz1978/Ruz1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a passionate Computer Science student pursuing my **B.Tech** from **Tehcnocrats Institute Of Technology College, Bhopal**. My focus is on building a strong foundation in core CS concepts and practical coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎓 What I'm Up To
+* **Core CSE:** Deepening my understanding of fundamental Computer Science principles.
+* **Data Structures & Algorithms (DSA):** Currently focusing on DSA problems using **Java**. You can find my practice codes in the repositories on this profile!
+* **Programming Language:** Primarily working with **Java**.
+
+#### 📈 My GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruz1978&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruz1978&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+#### 🚀 Connect & Code With Me
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [http://www.linkedin.com/in/ranu-chauhan] |
+| **LeetCode** | [https://leetcode.com/Ranu_Chauhan/] |
+| **Codeforces** | [https://codeforces.com/profile/Ranu-01] |
+| **Twitter (X)** | [@Ruzzie_] |
+
+---
+
+> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
