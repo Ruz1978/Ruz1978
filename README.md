@@ -1,4 +1,4 @@
-### Hi, I'm Ranu Chauhan!👋
+### Hi 💖, I'm Ranu Chauhan!👋
 
 ---
 
